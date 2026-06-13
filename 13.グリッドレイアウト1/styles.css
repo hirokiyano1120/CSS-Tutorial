@@ -27,14 +27,12 @@ div div {
 }
 
 /* 3. containerクラスにスタイルを適用 */
-/* 3. containerクラスにスタイルを適用 */
 .container {
   display: grid;
   grid-template-rows: 100px 100px 100px;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: end;
 }
-/* 4. containerクラスにスタイルを適用 */
 /* 4. containerクラスにスタイルを適用 */
 .container {
   display: grid;
